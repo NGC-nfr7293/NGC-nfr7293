@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi👋,my name is Ding Jun, a Chinese student in Lanzhou University.🌱I'm currently learning professional knowledge about nuclear physics, and I'm curious about controlled nuclear fussion.Welcome to discuss about it! I know that there are so many advanced technologies to learn in Github. That's why I sign up the account. Also,I'm glad to meet different people with the same passion.
+You can reach me through the email:301214376@qq.com
 
 <!--
 **NGC-nfr7293/NGC-nfr7293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
